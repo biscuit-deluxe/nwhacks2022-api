@@ -1,4 +1,5 @@
 /vendor
+/.serverless
 /.idea
 Homestead.json
 Homestead.yaml
